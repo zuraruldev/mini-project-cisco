@@ -2,14 +2,10 @@
 tags:
   - project
   - kampuskita-network
-hub: "[[00 - KampusKita Network MOC]]"
-related:
-  - "[[01 - Network Architecture & Topology]]"
-  - "[[02 - IP Addressing & Subnetting Plan]]"
-  - "[[07 - Implementation Roadmap & EdLink Submission]]"
 ---
 
-> **Pusat Navigasi Proyek:** [[00 - KampusKita Network MOC]] | **Desain Topologi:** [[01 - Network Architecture & Topology]] | **Roadmap Pengerjaan:** [[07 - Implementation Roadmap & EdLink Submission]]
+> 🧭 **Navigasi Proyek:** [[00 - KampusKita Network MOC|🏠 Pusat MOC]] • [[01 - Network Architecture & Topology|📐 Desain Topologi]] • [[07 - Implementation Roadmap & EdLink Submission|📋 Roadmap & EdLink]]  
+> *(💡 Tips Obsidian: Tahan tombol **Ctrl** lalu klik link, atau klik langsung pada mode **Reading View**).*
 
 # **Mini Project Keterampilan Komputer \- 2026/2027**
 

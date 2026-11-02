@@ -5,16 +5,12 @@ tags:
   - subnetting
   - networking
   - kampuskita-network
-hub: "[[00 - KampusKita Network MOC]]"
-related:
-  - "[[01 - Network Architecture & Topology]]"
-  - "[[03 - Core Router Configuration & ACL]]"
-  - "[[05 - DHCP & Wireless Access Points]]"
 ---
 
 # IP Addressing & Subnetting Plan — KampusKita University
 
-> **MOC:** [[00 - KampusKita Network MOC]] | **Topologi Gambar 1:** [[01 - Network Architecture & Topology]] | **Konfigurasi Router:** [[03 - Core Router Configuration & ACL]]
+> 🧭 **Navigasi Cepat:** [[00 - KampusKita Network MOC|🏠 Hub MOC]] • [[01 - Network Architecture & Topology|📐 Topologi Gambar 1]] • [[03 - Core Router Configuration & ACL|🛡️ Router & ACL]]  
+> *(💡 Tips Obsidian: Tahan tombol **Ctrl** lalu klik link, atau klik langsung pada mode **Reading View**).*
 
 Skema pengalamatan IP di KampusKita University membagi jaringan kelas C privat `192.168.0.0/16` menjadi 4 subnet `/24` terisolasi yang diatur oleh **ROUTER UTAMA**.
 

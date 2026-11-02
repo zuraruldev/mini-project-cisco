@@ -7,16 +7,12 @@ tags:
   - access-point
   - networking
   - kampuskita-network
-hub: "[[00 - KampusKita Network MOC]]"
-related:
-  - "[[01 - Network Architecture & Topology]]"
-  - "[[02 - IP Addressing & Subnetting Plan]]"
-  - "[[06 - End Device Verification & Email Testing]]"
 ---
 
 # DHCP & Wireless Access Points — KampusKita University
 
-> **MOC:** [[00 - KampusKita Network MOC]] | **Topologi Gambar 1:** [[01 - Network Architecture & Topology]] | **IP Plan:** [[02 - IP Addressing & Subnetting Plan]]
+> 🧭 **Navigasi Cepat:** [[00 - KampusKita Network MOC|🏠 Hub MOC]] • [[01 - Network Architecture & Topology|📐 Topologi Gambar 1]] • [[02 - IP Addressing & Subnetting Plan|🔢 Rencana IP]]  
+> *(💡 Tips Obsidian: Tahan tombol **Ctrl** lalu klik link, atau klik langsung pada mode **Reading View**).*
 
 Sesuai ilustrasi **Gambar 1**, terdapat **3 buah Dedicated DHCP Server** fisik pada masing-masing switch cabang (`SW-LAB-KOMPUTER`, `SW-ADMIN`, dan `SW-UMUM`), serta **3 unit Wireless Router** (`HomeRouter-PT-AC`) di Bagian Umum untuk memancarkan jaringan nirkabel bagi Tamu, Mahasiswa, dan Dosen.
 

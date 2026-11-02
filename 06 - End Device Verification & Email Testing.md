@@ -6,17 +6,12 @@ tags:
   - email-test
   - packet-tracer
   - kampuskita-network
-hub: "[[00 - KampusKita Network MOC]]"
-related:
-  - "[[01 - Network Architecture & Topology]]"
-  - "[[03 - Core Router Configuration & ACL]]"
-  - "[[04 - Server Farm Services]]"
-  - "[[07 - Implementation Roadmap & EdLink Submission]]"
 ---
 
 # End Device Verification & Email Testing — KampusKita University
 
-> **MOC:** [[00 - KampusKita Network MOC]] | **Topologi Gambar 1:** [[01 - Network Architecture & Topology]] | **Router & ACL:** [[03 - Core Router Configuration & ACL]]
+> 🧭 **Navigasi Cepat:** [[00 - KampusKita Network MOC|🏠 Hub MOC]] • [[01 - Network Architecture & Topology|📐 Topologi Gambar 1]] • [[07 - Implementation Roadmap & EdLink Submission|📋 Roadmap & EdLink]]  
+> *(💡 Tips Obsidian: Tahan tombol **Ctrl** lalu klik link, atau klik langsung pada mode **Reading View**).*
 
 Matriks pengujian berikut disusun berdasarkan nama-nama perangkat riil pada **Gambar 1** untuk membuktikan bahwa seluruh end-device dapat saling berkomunikasi, dapat berkirim email, dan aturan pemblokiran ACL bekerja 100%.
 

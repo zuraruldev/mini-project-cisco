@@ -6,16 +6,12 @@ tags:
   - submission
   - grading
   - kampuskita-network
-hub: "[[00 - KampusKita Network MOC]]"
-related:
-  - "[[Mini Project - Keterampilan Komputer - 2026]]"
-  - "[[01 - Network Architecture & Topology]]"
-  - "[[06 - End Device Verification & Email Testing]]"
 ---
 
 # Implementation Roadmap & EdLink Submission — KampusKita University
 
-> **MOC:** [[00 - KampusKita Network MOC]] | **Soal Induk:** [[Mini Project - Keterampilan Komputer - 2026]] | **Uji Validasi:** [[06 - End Device Verification & Email Testing]]
+> 🧭 **Navigasi Cepat:** [[00 - KampusKita Network MOC|🏠 Hub MOC]] • [[Mini Project - Keterampilan Komputer - 2026|📄 Soal Induk]] • [[Team 4-Person Division/00 - Team Overview & Roadmap|👥 Pembagian Tim 4 Orang]]  
+> *(💡 Tips Obsidian: Tahan tombol **Ctrl** lalu klik link, atau klik langsung pada mode **Reading View**).*
 
 Roadmap implementasi ini dirancang agar kelompok 4 orang menyelesaikan proyek lebih awal sebelum Pertemuan 15 untuk mengunci **Nilai Akhir A** sesuai rubrik RPS mata kuliah Keterampilan Komputer.
 

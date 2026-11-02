@@ -4,17 +4,12 @@ tags:
   - topology
   - networking
   - kampuskita-network
-hub: "[[00 - KampusKita Network MOC]]"
-related:
-  - "[[02 - IP Addressing & Subnetting Plan]]"
-  - "[[03 - Core Router Configuration & ACL]]"
-  - "[[04 - Server Farm Services]]"
-  - "[[05 - DHCP & Wireless Access Points]]"
 ---
 
 # Network Architecture & Topology — KampusKita University
 
-> **MOC:** [[00 - KampusKita Network MOC]] | **Alamat IP:** [[02 - IP Addressing & Subnetting Plan]] | **Router & ACL:** [[03 - Core Router Configuration & ACL]]
+> 🧭 **Navigasi Cepat:** [[00 - KampusKita Network MOC|🏠 Hub MOC]] • [[02 - IP Addressing & Subnetting Plan|🔢 Rencana IP]] • [[03 - Core Router Configuration & ACL|🛡️ Router & ACL]]  
+> *(💡 Tips Obsidian: Tahan tombol **Ctrl** lalu klik link, atau klik langsung pada mode **Reading View**).*
 
 Dokumen ini mendefinisikan arsitektur topologi jaringan **KampusKita University** sesuai referensi resmi **Gambar 1 (Ilustrasi topologi jaringan di KampusKita University)**. Topologi berbasis bintang bertingkat (*hierarchical star*) terpusat pada **ROUTER UTAMA** (`Router-PT`) dan 4 unit Switch distribusi (`2960-24TT`) yang dikelompokkan dalam 4 zona berwarna.
 

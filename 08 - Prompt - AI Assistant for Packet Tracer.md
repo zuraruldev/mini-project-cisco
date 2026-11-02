@@ -5,15 +5,12 @@ tags:
   - ai
   - packet-tracer
   - kampuskita-network
-hub: "[[00 - KampusKita Network MOC]]"
-related:
-  - "[[03 - Core Router Configuration & ACL]]"
-  - "[[04 - Server Farm Services]]"
 ---
 
 # Prompt — AI Assistant for Packet Tracer & Obsidian Graph
 
-> **MOC:** [[00 - KampusKita Network MOC]] | **Router & ACL:** [[03 - Core Router Configuration & ACL]] | **Server Farm:** [[04 - Server Farm Services]]
+> 🧭 **Navigasi Cepat:** [[00 - KampusKita Network MOC|🏠 Hub MOC]] • [[03 - Core Router Configuration & ACL|🛡️ Router & ACL]] • [[04 - Server Farm Services|🖥️ Server Farm]]  
+> *(💡 Tips Obsidian: Tahan tombol **Ctrl** lalu klik link, atau klik langsung pada mode **Reading View**).*
 
 Simpan prompt ini untuk digunakan bersama LLM kapan pun Anda ingin memperluas simulasi jaringan atau menambahkan catatan baru yang langsung terhubung ke graph Obsidian Anda.
 

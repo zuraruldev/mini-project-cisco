@@ -6,17 +6,13 @@ tags:
   - web
   - ftp
   - email
-  - cisco
-hub: "[[00 - KampusKita Network MOC]]"
-related:
-  - "[[02 - IP Addressing & Subnetting Plan]]"
-  - "[[03 - Core Router Configuration & ACL]]"
-  - "[[06 - End Device Verification & Email Testing]]"
+  - kampuskita-network
 ---
 
 # Server Farm Services — KampusKita University
 
-> **MOC:** [[00 - KampusKita Network MOC]] | **Rencana IP:** [[02 - IP Addressing & Subnetting Plan]] | **Uji Layanan:** [[06 - End Device Verification & Email Testing]]
+> 🧭 **Navigasi Cepat:** [[00 - KampusKita Network MOC|🏠 Hub MOC]] • [[02 - IP Addressing & Subnetting Plan|🔢 Rencana IP]] • [[06 - End Device Verification & Email Testing|🧪 Uji Layanan]]  
+> *(💡 Tips Obsidian: Tahan tombol **Ctrl** lalu klik link, atau klik langsung pada mode **Reading View**).*
 
 Empat server utama diletakkan di subnet `192.168.10.0/24` dengan konfigurasi IP statis dan gateway `192.168.10.1`.
 

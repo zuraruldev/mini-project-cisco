@@ -56,12 +56,14 @@ flowchart TD
 
 ## 👥 Pembagian Peran Tim (4 Orang)
 
-| Peran | Anggota | Tugas Utama |
+Tersedia folder operasional khusus di dalam repository ini: [📂 Team 4-Person Division](Team%204-Person%20Division/00%20-%20Team%20Overview%20%26%20Roadmap.md)
+
+| Peran | Panduan Kerja Mandiri | Tugas Utama |
 | :--- | :--- | :--- |
-| **Person 1** | Network Architect & Routing Lead | Perakitan kanvas Packet Tracer, konfigurasi interface gateway Router Utama, dan Extended ACL 101. |
-| **Person 2** | Server Farm Administrator | Setup 4 Server (DNS `kampuskita.ac.id`, Web HTTP, Cloud FTP, dan Mail SMTP/POP3). |
-| **Person 3** | DHCP & Wireless Specialist | Konfigurasi 3 unit DHCP Server dedicated dan 3 unit `HomeRouter-PT-AC` (Tamu Open, Mahasiswa, Dosen). |
-| **Person 4** | QA, Testing & Report Lead | Eksekusi matriks pengujian (Ping, Web, FTP, Email antar client, validasi drop ACL Tamu), kompilasi PDF Report & file `.pkt`. |
+| **Person 1** | [📘 Panduan Person 1](Team%204-Person%20Division/Person%201%20-%20Network%20Architect%20%26%20Routing%20Lead.md) | Perakitan kanvas Packet Tracer, konfigurasi interface gateway Router Utama, dan Extended ACL 101. |
+| **Person 2** | [📘 Panduan Person 2](Team%204-Person%20Division/Person%202%20-%20Server%20Farm%20Administrator.md) | Setup 4 Server (DNS `kampuskita.ac.id`, Web HTTP, Cloud FTP, dan Mail SMTP/POP3). |
+| **Person 3** | [📘 Panduan Person 3](Team%204-Person%20Division/Person%203%20-%20DHCP%20%26%20Wireless%20Specialist.md) | Konfigurasi 3 unit DHCP Server dedicated dan 3 unit `HomeRouter-PT-AC` (Tamu Open, Mahasiswa, Dosen). |
+| **Person 4** | [📘 Panduan Person 4](Team%204-Person%20Division/Person%204%20-%20QA%20Testing%20%26%20Report%20Lead.md) | Eksekusi matriks pengujian (Ping, Web, FTP, Email antar client, validasi drop ACL Tamu), kompilasi PDF Report & file `.pkt`. |
 
 ---
 

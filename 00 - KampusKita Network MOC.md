@@ -3,22 +3,13 @@ title: KampusKita Network MOC (Map of Content)
 tags:
   - moc
   - kampuskita-network
-hub: "[[Mini Project - Keterampilan Komputer - 2026]]"
-related:
-  - "[[01 - Network Architecture & Topology]]"
-  - "[[02 - IP Addressing & Subnetting Plan]]"
-  - "[[03 - Core Router Configuration & ACL]]"
-  - "[[04 - Server Farm Services]]"
-  - "[[05 - DHCP & Wireless Access Points]]"
-  - "[[06 - End Device Verification & Email Testing]]"
-  - "[[07 - Implementation Roadmap & EdLink Submission]]"
-  - "[[08 - Prompt - AI Assistant for Packet Tracer]]"
 ---
 
 # KampusKita Network MOC (Map of Content)
 
-> **Proyek Induk:** [[Mini Project - Keterampilan Komputer - 2026]]  
-> **Ruang Lingkup:** Desain & Simulasi Topologi Jaringan Kampus Terpadu (Cisco Packet Tracer)
+> 🧭 **Proyek Induk:** [[Mini Project - Keterampilan Komputer - 2026]]  
+> 👥 **Pembagian Kerja 4 Orang:** [[Team 4-Person Division/00 - Team Overview & Roadmap|Buka Folder Pembagian Kerja 4 Orang]]  
+> *(💡 Tips Obsidian: Tahan tombol **Ctrl** lalu klik link, atau klik langsung pada mode **Reading View**).*
 
 ---
 

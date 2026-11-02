@@ -5,16 +5,12 @@ tags:
   - acl
   - security
   - kampuskita-network
-hub: "[[00 - KampusKita Network MOC]]"
-related:
-  - "[[01 - Network Architecture & Topology]]"
-  - "[[02 - IP Addressing & Subnetting Plan]]"
-  - "[[06 - End Device Verification & Email Testing]]"
 ---
 
 # Core Router Configuration & ACL — KampusKita University
 
-> **MOC:** [[00 - KampusKita Network MOC]] | **Topologi Gambar 1:** [[01 - Network Architecture & Topology]] | **Alamat IP:** [[02 - IP Addressing & Subnetting Plan]]
+> 🧭 **Navigasi Cepat:** [[00 - KampusKita Network MOC|🏠 Hub MOC]] • [[01 - Network Architecture & Topology|📐 Topologi Gambar 1]] • [[02 - IP Addressing & Subnetting Plan|🔢 Rencana IP]]  
+> *(💡 Tips Obsidian: Tahan tombol **Ctrl** lalu klik link, atau klik langsung pada mode **Reading View**).*
 
 Pada **Gambar 1**, router pusat dinamai **ROUTER UTAMA** (model `Router-PT`). Router ini berfungsi sebagai default gateway untuk 4 zona dan menjadi gerbang keamanan utama untuk menegakkan aturan pemblokiran akses tamu ke Mail Server menggunakan **Extended Access Control List (ACL)**.
 
